@@ -222,3 +222,14 @@ __marimo__/
 data/raw/
 
 echo ".venv/" >> .gitignore
+
+data/processed/
+
+data/raw/
+data/processed/
+.venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
