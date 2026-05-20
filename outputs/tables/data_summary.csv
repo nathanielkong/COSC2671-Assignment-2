@@ -1,0 +1,2 @@
+total_rows,total_columns,start_date,end_date,unique_users,duplicate_tweet_ids,duplicate_texts
+100847,6,2022-11-21 14:30:16+00:00,2023-02-06 10:07:17+00:00,8684,845,9756
