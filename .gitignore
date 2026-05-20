@@ -220,3 +220,5 @@ __marimo__/
 
 # raw data
 data/raw/
+
+echo ".venv/" >> .gitignore
