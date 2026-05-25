@@ -233,3 +233,4 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 
+data/sample/Nvidia-Tweets.csv
