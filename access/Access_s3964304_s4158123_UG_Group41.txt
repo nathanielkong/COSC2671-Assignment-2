@@ -1,0 +1,25 @@
+Course: COSC2671 Social Media and Network Analytics
+Assignment: Assignment 2
+Group: Group 41
+
+Students:
+Nathaniel Kong - s3964304
+Bastien Kara - s4158123
+
+GitHub Repository Link:
+https://github.com/nathanielkong/COSC2671-Assignment-2.git
+
+How to Run the Code:
+
+1. Open the repository
+2. Install the required packages listed in requirements.txt
+3. Run the notebooks in this order:
+    * notebooks/01_data_collection_and_exploration.ipynb
+    * notebooks/02_text_cleaning_and_sentiment.ipynb
+    * notebooks/03_network_and_stock_analysis.ipynb
+
+Expected Inputs:
+The required dataset files are located in the data folder. Processed files are located in data/processed.
+
+Expected Outputs:
+Generated figures are saved in outputs/figures. Generated tables are saved in outputs/tables.
